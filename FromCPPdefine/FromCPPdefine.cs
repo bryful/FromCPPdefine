@@ -7,6 +7,7 @@ using System.IO;
 
 namespace FromCPPdefine
 {
+
 	public class FromCPPdefine
 	{
 		/*

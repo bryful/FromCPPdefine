@@ -91,6 +91,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AEVersion.cs" />
     <Compile Include="AppInfoDialog.cs">
       <SubType>Form</SubType>
     </Compile>
